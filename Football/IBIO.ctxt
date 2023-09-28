@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=IBIO
+comment0.text=\n\ IBIO\ methods,\ (c)\ International\ Baccalaureate\ 2003\n\ Computer\ Science\ Subject\ Guide,\ Appendix\ 2.\n\ These\ methods,\ provided\ by\ the\ IBO\ are\ an\ introductory\ way\ to\ get\ data\ in\ and\ out\ of\ your\ programs.\n\ Don't\ edit\ them\ at\ all\ -\ just\ copy,\ paste\ and\ use\ them\ in\ your\ first\ projects\n
+comment1.params=info
+comment1.target=void\ output(java.lang.String)
+comment2.params=info
+comment2.target=void\ output(double)
+comment3.params=info
+comment3.target=void\ output(int)
+comment4.params=Prompt
+comment4.target=int\ inputInt(java.lang.String)
+comment5.params=Prompt
+comment5.target=double\ inputDouble(java.lang.String)
+comment6.params=prompt
+comment6.target=java.lang.String\ input(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ input()
+numComments=8

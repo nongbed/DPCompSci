@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PremiereLeague
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=PremiereLeague()
+comment3.params=
+comment3.target=void\ changeQualify()
+comment4.params=
+comment4.target=void\ TeamsandPoints()
+comment5.params=
+comment5.target=void\ QualifiedAndRegisteration()
+numComments=6
